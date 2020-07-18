@@ -140,7 +140,7 @@ class IfxJsonConnection extends Connection implements ConnectionInterface
      */
     protected function getDefaultSchemaGrammar()
     {
-        return $this->withTablePrefix(new \Poyii\Informix\Schema\Grammars\IfxGrammar());
+        return $this->withTablePrefix(new \Ifx\Informix\Schema\Grammars\IfxGrammar());
     }
 
 
