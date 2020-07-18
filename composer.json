@@ -7,7 +7,7 @@
   "authors": [
     {
       "name": "nadzree",
-      "email": "nadzree@fluent.my"
+      "email": "nadzree@sudoers.my"
     }
   ],
   "require": {
@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Poyii\\": "src/"
+      "Ifx\\": "src/"
     }
   },
   "minimum-stability": "dev",
