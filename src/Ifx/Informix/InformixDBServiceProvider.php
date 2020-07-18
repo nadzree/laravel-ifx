@@ -24,7 +24,7 @@ class InformixDBServiceProvider extends ServiceProvider
     /**
      * Register the service provider.
      *
-     * @returns \Poyii\Informix\IfxConnection
+     * @returns \Ifx\Informix\IfxConnection
      */
     public function register()
     {
