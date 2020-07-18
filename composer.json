@@ -28,7 +28,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Poyii\\Informix\\InformixDBServiceProvider"
+        "Ifx\\Informix\\InformixDBServiceProvider"
       ]
     }
   },
